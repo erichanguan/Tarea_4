@@ -1,7 +1,7 @@
 # Tarea_4
 Informe de los Capítulos 7 y 8 del libro de Thomas Floyd Principios de Circuitos Eléctricos 8va Edición
 
-                                      UNIVERSIDAD DE LAS FUERXAS ARMADAS ESPE
+                                      UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 NOMBRE: CHANGUAN ERIKA
 CURSO:7322

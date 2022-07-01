@@ -5,7 +5,7 @@ Informe de los Capítulos 7 y 8 del libro de Thomas Floyd Principios de Circuito
 
 NOMBRE: CHANGUAN ERIKA
 CURSO:7322
-FECHA:03/06/22
+FECHA:01/07/2022
 NIVEL: II
 ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
@@ -101,9 +101,9 @@ los métodos tradicionales vistos anteriormente en clase e identificar las venta
 
 4. VÍDEO
 
+https://youtu.be/vS-7EF2-l8Q
 
-
-Video explicativo 4 ejercicios de la tematica de los dos capitulos estudiados 7 y 8.
+Video explicativo ejercicios de la tematica de los dos capitulos estudiados 7 y 8.
 
 
 5. CONCLUSIONES

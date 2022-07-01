@@ -30,12 +30,9 @@ los métodos tradicionales vistos anteriormente en clase e identificar las venta
 
 
 2. MARCO TEÓRICO (RESUMEN)
-![](https://github.com/erichanguan/InformeTarea/blob/main/3.1%20Ley%20de%20ohm.png)
-![](https://github.com/erichanguan/InformeTarea/blob/main/3.2%20calculo%20de%20corriente.png)
-![](https://github.com/erichanguan/InformeTarea/blob/main/3.3%20Introducci%C3%B3n%20a%20las%20fallas.png)
-![](https://github.com/erichanguan/InformeTarea/blob/main/4.1%20energ%C3%ADa%20y%20potencia.png)
-![](https://github.com/erichanguan/InformeTarea/blob/main/4.2%20potencia%20el%C3%A9ctrica.png)
-![](https://github.com/erichanguan/InformeTarea/blob/main/4.3%20fuentes%20de%20potencia.png)
+
+![](https://github.com/erichanguan/Tarea_4/blob/main/ejercicio/cap7.1.png)
+![](https://github.com/erichanguan/Tarea_4/blob/main/ejercicio/cap8.1.png)
 
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS

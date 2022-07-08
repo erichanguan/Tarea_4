@@ -4,9 +4,13 @@ Informe de los Capítulos 7 y 8 del libro de Thomas Floyd Principios de Circuito
                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
 NOMBRE: CHANGUAN ERIKA
+
 CURSO:7322
+
 FECHA:01/07/2022
+
 NIVEL: II
+
 ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELÉCTRICOS
 
 ACTIVIDAD- CAPÍTULO 7 Y CAPÍTULO 8
